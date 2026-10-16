@@ -1,0 +1,12 @@
+{
+  "name": "sidedeck",
+  "displayName": "Sidedeck",
+  "version": "0.1.0",
+  "description": "A keyboard-driven file pane beside the conversation: collapsible tree, file search, Markdown and code preview, @-mentions into the prompt, and a nano-style editor.",
+  "author": { "name": "DDUKHAE" },
+  "homepage": "https://github.com/DDUKHAE/sidedeck",
+  "repository": "https://github.com/DDUKHAE/sidedeck",
+  "license": "MIT",
+  "keywords": ["mod", "files", "explorer", "editor", "pane"],
+  "types": "./types/index.d.ts"
+}

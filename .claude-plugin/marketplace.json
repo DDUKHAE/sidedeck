@@ -1,0 +1,11 @@
+{
+  "name": "sidedeck",
+  "owner": { "name": "DDUKHAE", "url": "https://github.com/DDUKHAE" },
+  "plugins": [
+    {
+      "name": "sidedeck",
+      "source": "./",
+      "description": "A keyboard-driven file pane beside the conversation: tree, search, preview, @-mentions and a nano-style editor."
+    }
+  ]
+}
